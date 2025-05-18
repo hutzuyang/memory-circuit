@@ -9,13 +9,13 @@ This repository contains implementations of different components using HPICE.
 
 ## Gates
   - inverter.sp
-  <img src="homework1-gate/EE8074-Spring 2023 Homework #1_page-0001.jpg" width="50%" height="50%">
+  <img src="https://github.com/hutzuyang/memory-circuit/blob/ad081c9dc41ef3ec53a8074b1384abfd4b357c9f/homework1-gate/EE8074-Spring%202023%20Homework%20%231_page-0001.jpg" width="50%" height="50%">
   
   - NAND.sp、NOR.sp、XOR.sp、transmission.sp
-  <img src="homework1-gate/EE8074-Spring 2023 Homework #1_page-0002.jpg" width="50%" height="50%">
+  <img src="https://github.com/hutzuyang/memory-circuit/blob/63ad7d56be06753de23b46666b94a5d8eb32568c/homework1-gate/EE8074-Spring%202023%20Homework%20%231_page-0002.jpg" width="50%" height="50%">
   
   - MUX.sp decoder.sp
-  <img src="homework1-gate/EE8074-Spring 2023 Homework #1_page-0003.jpg" width="50%" height="50%">
+  <img src="https://github.com/hutzuyang/memory-circuit/blob/63ad7d56be06753de23b46666b94a5d8eb32568c/homework1-gate/EE8074-Spring%202023%20Homework%20%231_page-0003.jpg" width="50%" height="50%">
   
 
 ## SRAM
