@@ -14,7 +14,7 @@ This repository contains implementations of different components using HPICE.
   - NAND
   - NOR
   - XOR
-  - transmission.sp
+  - transmission
   <img src="https://github.com/hutzuyang/memory-circuit/blob/63ad7d56be06753de23b46666b94a5d8eb32568c/homework1-gate/EE8074-Spring%202023%20Homework%20%231_page-0002.jpg" width="50%" height="50%">
   
   - MUX
