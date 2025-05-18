@@ -1,6 +1,5 @@
 # memory-circuit
 
-# Hspice Projects
 This repository contains implementations of different components using HPICE.
 - Gates
 - SRAM
