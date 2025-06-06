@@ -1,6 +1,6 @@
 # memory-circuit
 
-This repository contains implementations of different components using HPICE.
+This repository contains implementations of different components using HSPICE.
 - Gates
 - SRAM
 - DRAM
